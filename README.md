@@ -1,4 +1,1 @@
-# projects-demo
-<h1>Demo Project</h1>
-<br>
-<p>its practice to learn git and github</p>
+<p>Nexus Gaming is a modern and fully responsive gaming website built using HTML5, CSS3, and JavaScript. The website showcases featured games, detailed game pages, animated UI components, and interactive sections such as news updates and system requirements. It includes smooth scroll effects, hover animations, and a visually engaging hero section designed to deliver a premium gaming experience across devices.</p>
